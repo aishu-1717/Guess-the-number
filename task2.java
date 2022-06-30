@@ -27,7 +27,7 @@ public class task2 {
     }
     else if(guess<right_guess){
       i++;
-      System.out.println("Yor Guess is lower than the right guess! Turns left: "+(10-i));  
+      System.out.println("Your Guess is lower than the right guess! Turns left: "+(10-i));  
     }
     else if(guess>right_guess) {
       i++;
